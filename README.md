@@ -6,7 +6,6 @@
 <img src="./Snapshots/2.png">
 <img src="./Snapshots/3.png">
 </br>
-</br>
 
 ### Developed by:
 
